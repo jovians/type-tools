@@ -1,0 +1,10 @@
+test/**/*
+tests/**/*
+support/**/*
+examples/**/*
+
+**/isolate-*
+*.tgz
+
+.secrets.json
+*.properties
