@@ -1,8 +1,8 @@
 {
   "name": "@jovian/type-tools",
-  "version": "6.1.37",
+  "version": "6.1.38",
   "index": "index.js",
-  "homepage": "https://github.com/jovians/type-tools",
+  "homepage": "https://github.com/jovians/type-tools#readme",
   "bugs":{
     "url" : "https://github.com/jovians/type-tools/issues",
     "email" : "jovian.technologies@gmail.com"

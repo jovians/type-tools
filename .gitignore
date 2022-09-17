@@ -58,3 +58,7 @@ Thumbs.db
 
 # playground
 play*.ts
+
+# js & js.map
+*.js
+*.map
